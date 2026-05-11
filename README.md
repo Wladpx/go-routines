@@ -1,4 +1,4 @@
-# go-routines
+# Concurrent Service Checker
 
 Pequeno projeto desenvolvido para estudar concorrência em Go utilizando goroutines e `sync.WaitGroup`.
 
